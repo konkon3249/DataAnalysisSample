@@ -7,6 +7,5 @@ Python(numpy,matplotlib,pandas)を使ったデータ解析のサンプルが入�
 ## 環境構築方法
 ~~ggrks~~   
 * https://ai-inter1.com/python-install/ (Python環境構築)   
-* https://ai-inter1.com/jupyter-notebook/ (Jupyter-notebookの使い方)   
-このあたりを参考にしてみてください。  
+* https://ai-inter1.com/jupyter-notebook/ (Jupyter-notebookの使い方)
 ![sample image](sample.png "sample")
