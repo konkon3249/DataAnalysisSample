@@ -8,4 +8,5 @@ Python(numpy,matplotlib,pandas)を使ったデータ解析のサンプルが入�
 ~~ggrks~~   
 * https://ai-inter1.com/python-install/ (Python環境構築)   
 * https://ai-inter1.com/jupyter-notebook/ (Jupyter-notebookの使い方)
+## サンプル画像
 ![sample image](sample.png "sample")
