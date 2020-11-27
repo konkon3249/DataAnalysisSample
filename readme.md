@@ -3,7 +3,7 @@ Python(numpy,matplotlib,pandas)を使ったデータ解析のサンプルが入�
 下のようなプロットが誰でも描けるようになります。
 ## ファイルの説明
 * 解析用のJupyterノートブック(AnalyzeSample.ipynb)
-* XRDスペクトル解析のサンプル(SpectrumPlotSample.ipynb)
+* XRDスペクトル解析のノートブック(SpectrumPlotSample.ipynb)
 * サンプルデータセット(sample_dataset.csv)
 * ジルコンの粉末XRDデータ(Zircon__R050034-1__Powder__Xray_Data_XY_Processed__4054.txt)
 * ジルコンの理論的回折ピークのデータ(mp-4820_xrd_Cu.json)
